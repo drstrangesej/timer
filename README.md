@@ -5,6 +5,7 @@
 
 
 Steps:
+
 1)Run the Python script: Make sure you have the necessary libraries installed (Tkinter, pygame). Save the script in a .py file and execute it using your Python interpreter.
 
 2)The GUI window will appear with a "Countdown Clock and Timer" title.
